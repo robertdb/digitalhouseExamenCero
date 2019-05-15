@@ -1,6 +1,14 @@
-# digitalhouseExamenCero
+# Test
 ## Demo
 https://chenqingspring.github.io/react-lottie
+
+## Installation
+
+Install through npm:
+```
+npm install
+```
+
 
 ## Wapper of bodymovin.js
 
@@ -20,10 +28,3 @@ Bundle vector animations within your app without having to worry about multiple 
 [Learn more](http://airbnb.design/introducing-lottie/) › http://airbnb.design/lottie/
 
 Looking for lottie files › https://www.lottiefiles.com/
-
-## Installation
-
-Install through npm:
-```
-npm install --save react-lottie
-```
